@@ -90,11 +90,11 @@ export default function Navbar() {
           marginLeft={{ base: "0.5rem", md: "0rem" }}
           style={{
             fontFamily: "Algerian",
-            color: "gray"
+            color: "#2E1575"
 
           }}
         >
-          Fillable
+          Alphbet Services
         </Heading>
       </Box>
 
